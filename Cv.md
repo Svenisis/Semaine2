@@ -29,7 +29,7 @@
 			
            <li><p style="color:red">Formations</p>
 				<ol>
-					<li style="font-family:Futura">Lycée Chateauneuf 3éme Dp6 Brevet Obtenue</li>
+					**style="font-family:Futura">Lycée Chateauneuf 3éme Dp6 Brevet Obtenue
 					<li style="font-family:Futura">Lycée Chateauneuf Bac pro Hotelerie Restaurations Pas de diplome Obtenue</li>
 					<li style="font-family:Futura">Lycée George Sand Cap Ebenisterie Pas de diplome Obtenue</li>
 			</ol>
