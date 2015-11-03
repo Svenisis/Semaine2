@@ -2,6 +2,8 @@
 
 <!DOCTYPE html>
 
+<html>
+
 <head>
 	
 	<title>Cv</title>
@@ -44,6 +46,6 @@
 			
             
 			
-		</ul>
+		
 	</body>
 </html>
