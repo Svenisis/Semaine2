@@ -42,10 +42,5 @@
 			        <li  style="font-family:Arial">Aide les personnes</li>
 			        <li style="font-family:Arial">Timide</li>
 			        </ul>
-			
-			
-            
-			
-		
-	</body>
+			</body>
 </html>
