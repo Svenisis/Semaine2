@@ -6,7 +6,7 @@
 
 <head>
 	
-	<title>Cv</title>
+	<h1>Cv</h1>
 		
 		<p>Michel Valérian</p>
 		<p>8 Route de Sevigne</p>
