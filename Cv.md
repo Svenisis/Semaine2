@@ -1,6 +1,6 @@
 #Semaine2 Cv
 
-<!DOCTYPE html>
+
 
 <html>
 
