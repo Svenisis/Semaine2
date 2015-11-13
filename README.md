@@ -6,7 +6,7 @@
 
 <ul>
 
-<li> Introductions du HTML</li>
+<li>Introductions du HTML</li>
 
 <li> La structure de HTML:Utiliser des listes</li>
 

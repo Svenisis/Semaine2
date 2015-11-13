@@ -9,9 +9,9 @@
 	<h1>Cv</h1>
 		
 		<p>Michel Valérian</p>
-		<p>8 Route de Sevigne</p>
-		<p>Thevet St Julien</p>
-		<p>0786930431</p>
+	
+
+		
 		
 	</head>
 	
